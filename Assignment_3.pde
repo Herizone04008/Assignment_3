@@ -1,3 +1,4 @@
+// for the font i seacrh how to do it
 PFont bubblyFont;
 char randomLetter;
 int difficulty = 0;
